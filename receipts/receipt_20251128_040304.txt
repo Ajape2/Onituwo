@@ -1,0 +1,14 @@
+=== Receipt ===
+Business: Provision Store
+Date: 2025-11-28 04:03:04
+Customer: Bola
+-------------------------------
+Item                    Qty   Amount
+-------------------------------
+rice,suger,bread,...   3.00     9.00
+-------------------------------
+Subtotal:                      9.00
+Tax (5%):                      0.45
+TOTAL:                         9.45
+-------------------------------
+Thank you for your business!

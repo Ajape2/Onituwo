@@ -1,0 +1,15 @@
+=== Receipt ===
+Business: Provision Store
+Date: 2025-11-28 04:28:22
+Customer: Bola
+-------------------------------
+Item                    Qty   Amount
+-------------------------------
+tomatoes 2kg,2000      3.00  3000.00
+-------------------------------
+Subtotal:                   3000.00
+Discount (4.0%):           -120.00
+Tax (5%):                    144.00
+TOTAL:                      3024.00
+-------------------------------
+Thank you for your business!
