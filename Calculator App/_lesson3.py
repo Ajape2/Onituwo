@@ -1,8 +1,7 @@
 isOpen=True
 while(isOpen):
     # buiding of calculator using loop
-    FirstNumber = float(input("Enter the firstnumber:"))
-    SecondNumber = float(input("Enter the secondnumber"))
+   
 
     #this are the list of operations
     print('\nChoose an operation:')
@@ -19,22 +18,30 @@ while(isOpen):
     #Use only if/elif/else to performoperations
     if operation == '1':
         #Addition
+        FirstNumber = float(input("Enter the firstnumber:"))
+        SecondNumber = float(input("Enter the secondnumber"))
         result = FirstNumber + SecondNumber
         print('Result:',result)
 
     elif operation == '2':
         #Subtraction
+        FirstNumber = float(input("Enter the firstnumber:"))
+        SecondNumber = float(input("Enter the secondnumber"))
         result = FirstNumber - SecondNumber
         print('Result:',result)
 
     elif operation == '3':
         #Multiplication
+        FirstNumber = float(input("Enter the firstnumber:"))
+        SecondNumber = float(input("Enter the secondnumber"))
         result = FirstNumber * SecondNumber
         print('Result:',result)
 
     elif  operation == '4':
         #Division (check to avoid zero division)
         if SecondNumber !=0:
+            FirstNumber = float(input("Enter the firstnumber:"))
+            SecondNumber = float(input("Enter the secondnumber"))
             result = FirstNumber / SecondNumber
             print('Result:',result)
 
